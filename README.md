@@ -27,3 +27,13 @@ Implementar una aplicación que utilice cualquiera de los API's mostrados en: ht
 
 Entregable: en el aula virtual deberá subir su repositorio de github donde debe detallar el proceso en el readme y adjuntar capturas de la app en ejecución. Pueden trabajar hasta 3 personas. Todos deben subir su repositorio.
 
+aqui se busca el anime:
+
+![{84C0D6AB-9FDB-4CB9-9890-D973C64696A5}](https://github.com/user-attachments/assets/01d3ccda-77d8-48ba-8d37-32e2a2b9dc9e)
+
+un ejemplo buscamos hunterxhunter:
+
+![{BFB3EBB5-3C27-4D04-945F-B86F7698D7F6}](https://github.com/user-attachments/assets/8386c214-b186-47c0-87d3-5d611836199f)
+
+nos da  informacion y foto del mismo
+

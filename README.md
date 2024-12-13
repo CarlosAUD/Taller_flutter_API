@@ -4,7 +4,22 @@
 El presente repo contiene una aplicación que consume el API de https://pokeapi.co/, con el endpoint [https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0](https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0)
 
 Actividad 1:
-La actividad por realizar es generar una aplicación que me permita buscar y mostrar Pokémons pero con todas sus características, incluida su foto, para lo cual puede consumir el endpoint: https://pokeapi.co/api/v2/pokemon/ditto , en este caso "ditto" es el nombre del Pokémon a mostrar.
+La actividad por realizar es generar una aplicación que me permita buscar y mostrar Pokémons pero con todas sus características, incluida su foto, para lo cual puede consumir el endpoint: https://pokeapi.co/api/v2/pokemon/ditto , en este caso "ditto" es el nombre del 
+
+
+prueba funcional 
+
+![{022C49AA-370B-4100-9A01-420306D3D731}](https://github.com/user-attachments/assets/63c38a9f-ddbe-4e8c-9cf8-485c9935aee0)
+
+BUSQUEDA DE DITTO:
+
+![{C61AE151-DD15-472E-97D1-EC7F4D053E98}](https://github.com/user-attachments/assets/7432c7e8-3566-48dd-a63b-5ff53e077357)
+
+
+![{DD23368B-1B94-42D6-AC00-0526873B4DC8}](https://github.com/user-attachments/assets/43d2ed70-856e-46ed-b642-dc62fd74b2ca)
+
+
+Pokémon a mostrar.
 
 Actividad 2:
 Implementar una aplicación que utilice cualquiera de los API's mostrados en: https://github.com/public-apis/public-apis

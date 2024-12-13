@@ -36,4 +36,6 @@ un ejemplo buscamos hunterxhunter:
 ![{BFB3EBB5-3C27-4D04-945F-B86F7698D7F6}](https://github.com/user-attachments/assets/8386c214-b186-47c0-87d3-5d611836199f)
 
 nos da  informacion y foto del mismo
+CREADOR:
 
+CARLOS ANTONIO USHIÑA DAVILA

@@ -39,3 +39,32 @@ nos da  informacion y foto del mismo
 CREADOR:
 
 CARLOS ANTONIO USHIÑA DAVILA
+
+
+
+Para la subida de la APP necesitamos escoger la tienda en la cual tenemos que hacerlo.
+
+![image](https://github.com/user-attachments/assets/14a20bc0-6b47-4f68-8c09-65e3b4760e12)
+
+en este caso escogimos APKPURE
+
+La cual es la siguiente tienda:
+
+![image](https://github.com/user-attachments/assets/558db9c6-e611-4b65-89a4-b0e32c3251e2)
+
+nos vamos en la parte de abajo en la cual podemos verificar que tenemos la opcion de presentar la apk, como desarrolladores:
+
+![image](https://github.com/user-attachments/assets/96b4dbee-c04f-4c58-99ef-402721351cfc)
+
+
+En este caso nos logeamos con nuestro correo de gmail o el que prefiramos:
+![image](https://github.com/user-attachments/assets/f5b8af0f-c600-4df3-a08d-f3a46f932fb0)
+
+
+Para ello necesitamos subir nuestra APK teniendo en cuenta que tenemos que esperar a que nos contesten los desarolladores para que nos aprueben la subida:
+![image](https://github.com/user-attachments/assets/f48ee085-1ae1-468f-a165-2645580c4249)
+
+Debemos de seleccionar la APK para la subida del mismo
+
+
+

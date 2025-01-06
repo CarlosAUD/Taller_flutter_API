@@ -66,5 +66,6 @@ Para ello necesitamos subir nuestra APK teniendo en cuenta que tenemos que esper
 
 Debemos de seleccionar la APK para la subida del mismo
 
+Ahora tenemos que esperar a que nos aprueben para la subida del mismo.
 
 
